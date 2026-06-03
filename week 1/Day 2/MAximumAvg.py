@@ -1,4 +1,5 @@
 class Solution(object):
+    #using sliding window approach
     def findMaxAverage(self, nums, k):
         sum = 0
         for i in range(k):
