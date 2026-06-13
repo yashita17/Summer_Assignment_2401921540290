@@ -21,4 +21,4 @@ class Solution(object):
             if c1 == c2:
                 arr.append(left)
         return arr
-        
+    
