@@ -17,3 +17,4 @@ class Solution(object):
                 pointer +=1
             mat1.append(temp)
         return mat1
+    
