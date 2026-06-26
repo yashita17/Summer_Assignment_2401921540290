@@ -1,3 +1,6 @@
+from collections import deque
+
+
 class RecentCounter(object):
 
     def __init__(self):
